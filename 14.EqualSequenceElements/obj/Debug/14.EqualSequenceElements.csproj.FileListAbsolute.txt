@@ -1,0 +1,5 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\14.EqualSequenceElements\bin\Debug\14.EqualSequenceElements.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\14.EqualSequenceElements\bin\Debug\14.EqualSequenceElements.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\14.EqualSequenceElements\obj\Debug\14.EqualSequenceElements.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\14.EqualSequenceElements\obj\Debug\14.EqualSequenceElements.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\14.EqualSequenceElements\obj\Debug\14.EqualSequenceElements.pdb

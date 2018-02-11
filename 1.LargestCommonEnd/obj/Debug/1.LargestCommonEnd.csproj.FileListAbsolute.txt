@@ -1,0 +1,6 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\1.LargestCommonEnd\bin\Debug\1.LargestCommonEnd.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\1.LargestCommonEnd\bin\Debug\1.LargestCommonEnd.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\1.LargestCommonEnd\obj\Debug\1.LargestCommonEnd.csprojResolveAssemblyReference.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\1.LargestCommonEnd\obj\Debug\1.LargestCommonEnd.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\1.LargestCommonEnd\obj\Debug\1.LargestCommonEnd.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\1.LargestCommonEnd\obj\Debug\1.LargestCommonEnd.pdb

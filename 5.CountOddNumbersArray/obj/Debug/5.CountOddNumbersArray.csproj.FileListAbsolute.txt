@@ -1,0 +1,5 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\5.CountOddNumbersArray\bin\Debug\5.CountOddNumbersArray.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\5.CountOddNumbersArray\bin\Debug\5.CountOddNumbersArray.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\5.CountOddNumbersArray\obj\Debug\5.CountOddNumbersArray.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\5.CountOddNumbersArray\obj\Debug\5.CountOddNumbersArray.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\5.CountOddNumbersArray\obj\Debug\5.CountOddNumbersArray.pdb

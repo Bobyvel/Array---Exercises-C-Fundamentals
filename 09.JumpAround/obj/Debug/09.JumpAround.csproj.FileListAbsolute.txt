@@ -1,0 +1,6 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\09.JumpAround\bin\Debug\09.JumpAround.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\09.JumpAround\bin\Debug\09.JumpAround.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\09.JumpAround\obj\Debug\09.JumpAround.csprojResolveAssemblyReference.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\09.JumpAround\obj\Debug\09.JumpAround.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\09.JumpAround\obj\Debug\09.JumpAround.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\09.JumpAround\obj\Debug\09.JumpAround.pdb

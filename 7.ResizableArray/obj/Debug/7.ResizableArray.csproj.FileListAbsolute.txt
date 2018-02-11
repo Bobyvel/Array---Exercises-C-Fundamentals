@@ -1,0 +1,6 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\7.ResizableArray\bin\Debug\7.ResizableArray.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\7.ResizableArray\bin\Debug\7.ResizableArray.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\7.ResizableArray\obj\Debug\7.ResizableArray.csprojResolveAssemblyReference.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\7.ResizableArray\obj\Debug\7.ResizableArray.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\7.ResizableArray\obj\Debug\7.ResizableArray.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\7.ResizableArray\obj\Debug\7.ResizableArray.pdb

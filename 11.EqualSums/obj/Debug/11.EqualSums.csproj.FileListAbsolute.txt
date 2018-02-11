@@ -1,0 +1,5 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\11.EqualSums\bin\Debug\11.EqualSums.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\11.EqualSums\bin\Debug\11.EqualSums.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\11.EqualSums\obj\Debug\11.EqualSums.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\11.EqualSums\obj\Debug\11.EqualSums.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\11.EqualSums\obj\Debug\11.EqualSums.pdb

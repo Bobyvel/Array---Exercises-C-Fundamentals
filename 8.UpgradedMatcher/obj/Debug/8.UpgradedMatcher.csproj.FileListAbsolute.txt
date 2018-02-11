@@ -1,0 +1,6 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\8.UpgradedMatcher\bin\Debug\8.UpgradedMatcher.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\8.UpgradedMatcher\bin\Debug\8.UpgradedMatcher.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\8.UpgradedMatcher\obj\Debug\8.UpgradedMatcher.csprojResolveAssemblyReference.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\8.UpgradedMatcher\obj\Debug\8.UpgradedMatcher.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\8.UpgradedMatcher\obj\Debug\8.UpgradedMatcher.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\8.UpgradedMatcher\obj\Debug\8.UpgradedMatcher.pdb

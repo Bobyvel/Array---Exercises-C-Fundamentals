@@ -1,0 +1,5 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\13.IncreasingSequenceElements\bin\Debug\13.IncreasingSequenceElements.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\13.IncreasingSequenceElements\bin\Debug\13.IncreasingSequenceElements.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\13.IncreasingSequenceElements\obj\Debug\13.IncreasingSequenceElements.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\13.IncreasingSequenceElements\obj\Debug\13.IncreasingSequenceElements.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\13.IncreasingSequenceElements\obj\Debug\13.IncreasingSequenceElements.pdb

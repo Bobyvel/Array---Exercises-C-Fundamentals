@@ -1,0 +1,5 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\9.LargestElementArray\bin\Debug\9.LargestElementArray.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\9.LargestElementArray\bin\Debug\9.LargestElementArray.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\9.LargestElementArray\obj\Debug\9.LargestElementArray.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\9.LargestElementArray\obj\Debug\9.LargestElementArray.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\9.LargestElementArray\obj\Debug\9.LargestElementArray.pdb

@@ -1,0 +1,5 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.OddNumbersOddPositions\bin\Debug\6.OddNumbersOddPositions.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.OddNumbersOddPositions\bin\Debug\6.OddNumbersOddPositions.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.OddNumbersOddPositions\obj\Debug\6.OddNumbersOddPositions.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.OddNumbersOddPositions\obj\Debug\6.OddNumbersOddPositions.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.OddNumbersOddPositions\obj\Debug\6.OddNumbersOddPositions.pdb

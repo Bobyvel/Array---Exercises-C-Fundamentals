@@ -1,0 +1,6 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\4. Phone\bin\Debug\_4.Phone.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\4. Phone\bin\Debug\_4.Phone.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\4. Phone\obj\Debug\4. Phone.csprojResolveAssemblyReference.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\4. Phone\obj\Debug\4. Phone.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\4. Phone\obj\Debug\_4.Phone.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\4. Phone\obj\Debug\_4.Phone.pdb

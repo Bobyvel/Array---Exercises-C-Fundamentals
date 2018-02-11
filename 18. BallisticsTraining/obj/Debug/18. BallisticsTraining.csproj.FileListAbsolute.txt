@@ -1,0 +1,5 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\18. BallisticsTraining\bin\Debug\_18.BallisticsTraining.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\18. BallisticsTraining\bin\Debug\_18.BallisticsTraining.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\18. BallisticsTraining\obj\Debug\18. BallisticsTraining.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\18. BallisticsTraining\obj\Debug\_18.BallisticsTraining.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\18. BallisticsTraining\obj\Debug\_18.BallisticsTraining.pdb

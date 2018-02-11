@@ -1,0 +1,5 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\3.SafeManipulation\bin\Debug\3.SafeManipulation.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\3.SafeManipulation\bin\Debug\3.SafeManipulation.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\3.SafeManipulation\obj\Debug\3.SafeManipulation.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\3.SafeManipulation\obj\Debug\3.SafeManipulation.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\3.SafeManipulation\obj\Debug\3.SafeManipulation.pdb

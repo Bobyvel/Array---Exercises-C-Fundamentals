@@ -1,0 +1,5 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\3.Phonebook\bin\Debug\3.Phonebook.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\3.Phonebook\bin\Debug\3.Phonebook.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\3.Phonebook\obj\Debug\3.Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\3.Phonebook\obj\Debug\3.Phonebook.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\3.Phonebook\obj\Debug\3.Phonebook.pdb

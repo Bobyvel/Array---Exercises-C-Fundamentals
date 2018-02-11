@@ -1,0 +1,5 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\7.InventoryMatcher\bin\Debug\7.InventoryMatcher.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\7.InventoryMatcher\bin\Debug\7.InventoryMatcher.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\7.InventoryMatcher\obj\Debug\7.InventoryMatcher.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\7.InventoryMatcher\obj\Debug\7.InventoryMatcher.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\7.InventoryMatcher\obj\Debug\7.InventoryMatcher.pdb

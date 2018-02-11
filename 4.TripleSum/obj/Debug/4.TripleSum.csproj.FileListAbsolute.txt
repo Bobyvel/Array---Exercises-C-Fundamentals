@@ -1,0 +1,6 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\4.TripleSum\bin\Debug\4.TripleSum.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\4.TripleSum\bin\Debug\4.TripleSum.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\4.TripleSum\obj\Debug\4.TripleSum.csprojResolveAssemblyReference.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\4.TripleSum\obj\Debug\4.TripleSum.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\4.TripleSum\obj\Debug\4.TripleSum.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\4.TripleSum\obj\Debug\4.TripleSum.pdb

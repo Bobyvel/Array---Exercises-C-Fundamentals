@@ -1,0 +1,5 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\15.CountCapitalLetters\bin\Debug\15.CountCapitalLetters.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\15.CountCapitalLetters\bin\Debug\15.CountCapitalLetters.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\15.CountCapitalLetters\obj\Debug\15.CountCapitalLetters.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\15.CountCapitalLetters\obj\Debug\15.CountCapitalLetters.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\15.CountCapitalLetters\obj\Debug\15.CountCapitalLetters.pdb

@@ -1,0 +1,6 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.Heists\bin\Debug\6.Heists.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.Heists\bin\Debug\6.Heists.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.Heists\obj\Debug\6.Heists.csprojResolveAssemblyReference.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.Heists\obj\Debug\6.Heists.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.Heists\obj\Debug\6.Heists.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.Heists\obj\Debug\6.Heists.pdb

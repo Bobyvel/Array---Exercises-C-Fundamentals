@@ -1,0 +1,6 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2.ManipulateArray\bin\Debug\2.ManipulateArray.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2.ManipulateArray\bin\Debug\2.ManipulateArray.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2.ManipulateArray\obj\Debug\2.ManipulateArray.csprojResolveAssemblyReference.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2.ManipulateArray\obj\Debug\2.ManipulateArray.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2.ManipulateArray\obj\Debug\2.ManipulateArray.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2.ManipulateArray\obj\Debug\2.ManipulateArray.pdb

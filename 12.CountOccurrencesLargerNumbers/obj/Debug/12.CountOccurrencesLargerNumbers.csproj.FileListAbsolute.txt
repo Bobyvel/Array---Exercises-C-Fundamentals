@@ -1,0 +1,5 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\12.CountOccurrencesLargerNumbers\bin\Debug\12.CountOccurrencesLargerNumbers.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\12.CountOccurrencesLargerNumbers\bin\Debug\12.CountOccurrencesLargerNumbers.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\12.CountOccurrencesLargerNumbers\obj\Debug\12.CountOccurrencesLargerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\12.CountOccurrencesLargerNumbers\obj\Debug\12.CountOccurrencesLargerNumbers.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\12.CountOccurrencesLargerNumbers\obj\Debug\12.CountOccurrencesLargerNumbers.pdb

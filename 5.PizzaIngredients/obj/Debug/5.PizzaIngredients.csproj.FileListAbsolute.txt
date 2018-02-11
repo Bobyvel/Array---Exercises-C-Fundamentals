@@ -1,0 +1,5 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\5.PizzaIngredients\bin\Debug\5.PizzaIngredients.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\5.PizzaIngredients\bin\Debug\5.PizzaIngredients.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\5.PizzaIngredients\obj\Debug\5.PizzaIngredients.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\5.PizzaIngredients\obj\Debug\5.PizzaIngredients.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\5.PizzaIngredients\obj\Debug\5.PizzaIngredients.pdb

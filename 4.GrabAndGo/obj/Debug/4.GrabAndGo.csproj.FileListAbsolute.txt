@@ -1,0 +1,5 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\4.GrabAndGo\bin\Debug\4.GrabAndGo.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\4.GrabAndGo\bin\Debug\4.GrabAndGo.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\4.GrabAndGo\obj\Debug\4.GrabAndGo.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\4.GrabAndGo\obj\Debug\4.GrabAndGo.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\4.GrabAndGo\obj\Debug\4.GrabAndGo.pdb

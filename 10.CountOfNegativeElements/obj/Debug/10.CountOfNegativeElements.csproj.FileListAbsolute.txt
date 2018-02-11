@@ -1,0 +1,6 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\10.CountOfNegativeElements\obj\Debug\10.CountOfNegativeElements.csprojResolveAssemblyReference.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\10.CountOfNegativeElements\obj\Debug\10.CountOfNegativeElements.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\10.CountOfNegativeElements\bin\Debug\10.CountOfNegativeElements.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\10.CountOfNegativeElements\bin\Debug\10.CountOfNegativeElements.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\10.CountOfNegativeElements\obj\Debug\10.CountOfNegativeElements.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\10.CountOfNegativeElements\obj\Debug\10.CountOfNegativeElements.pdb

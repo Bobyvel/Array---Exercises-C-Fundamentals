@@ -1,0 +1,5 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2.ArrayElementsEqualToTheirIndex\bin\Debug\2.ArrayElementsEqualToTheirIndex.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2.ArrayElementsEqualToTheirIndex\bin\Debug\2.ArrayElementsEqualToTheirIndex.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2.ArrayElementsEqualToTheirIndex\obj\Debug\2.ArrayElementsEqualToTheirIndex.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2.ArrayElementsEqualToTheirIndex\obj\Debug\2.ArrayElementsEqualToTheirIndex.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2.ArrayElementsEqualToTheirIndex\obj\Debug\2.ArrayElementsEqualToTheirIndex.pdb

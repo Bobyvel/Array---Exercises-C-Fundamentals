@@ -1,0 +1,5 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\16.ArraySymmetry\bin\Debug\16.ArraySymmetry.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\16.ArraySymmetry\bin\Debug\16.ArraySymmetry.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\16.ArraySymmetry\obj\Debug\16.ArraySymmetry.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\16.ArraySymmetry\obj\Debug\16.ArraySymmetry.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\16.ArraySymmetry\obj\Debug\16.ArraySymmetry.pdb

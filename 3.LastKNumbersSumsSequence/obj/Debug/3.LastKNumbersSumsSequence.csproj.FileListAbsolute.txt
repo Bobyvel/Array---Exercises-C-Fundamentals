@@ -1,0 +1,5 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\3.LastKNumbersSumsSequence\bin\Debug\3.LastKNumbersSumsSequence.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\3.LastKNumbersSumsSequence\bin\Debug\3.LastKNumbersSumsSequence.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\3.LastKNumbersSumsSequence\obj\Debug\3.LastKNumbersSumsSequence.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\3.LastKNumbersSumsSequence\obj\Debug\3.LastKNumbersSumsSequence.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\3.LastKNumbersSumsSequence\obj\Debug\3.LastKNumbersSumsSequence.pdb

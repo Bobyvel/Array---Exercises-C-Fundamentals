@@ -1,0 +1,5 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\03.FoldAndSum\bin\Debug\03.FoldAndSum.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\03.FoldAndSum\bin\Debug\03.FoldAndSum.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\03.FoldAndSum\obj\Debug\03.FoldAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\03.FoldAndSum\obj\Debug\03.FoldAndSum.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\03.FoldAndSum\obj\Debug\03.FoldAndSum.pdb

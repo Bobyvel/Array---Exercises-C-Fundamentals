@@ -1,0 +1,5 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2. ReverseArray\bin\Debug\_2.ReverseArray.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2. ReverseArray\bin\Debug\_2.ReverseArray.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2. ReverseArray\obj\Debug\2. ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2. ReverseArray\obj\Debug\_2.ReverseArray.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2. ReverseArray\obj\Debug\_2.ReverseArray.pdb

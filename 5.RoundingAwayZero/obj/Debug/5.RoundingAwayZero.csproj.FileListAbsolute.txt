@@ -1,0 +1,5 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\5.RoundingAwayZero\bin\Debug\5.RoundingAwayZero.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\5.RoundingAwayZero\bin\Debug\5.RoundingAwayZero.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\5.RoundingAwayZero\obj\Debug\5.RoundingAwayZero.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\5.RoundingAwayZero\obj\Debug\5.RoundingAwayZero.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\5.RoundingAwayZero\obj\Debug\5.RoundingAwayZero.pdb

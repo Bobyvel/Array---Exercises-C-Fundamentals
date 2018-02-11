@@ -1,0 +1,6 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\9.IndexOfLetters\bin\Debug\9.IndexOfLetters.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\9.IndexOfLetters\bin\Debug\9.IndexOfLetters.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\9.IndexOfLetters\obj\Debug\9.IndexOfLetters.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\9.IndexOfLetters\obj\Debug\9.IndexOfLetters.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\9.IndexOfLetters\obj\Debug\9.IndexOfLetters.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\9.IndexOfLetters\obj\Debug\9.IndexOfLetters.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\7.SumArrays\bin\Debug\7.SumArrays.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\7.SumArrays\bin\Debug\7.SumArrays.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\7.SumArrays\obj\Debug\7.SumArrays.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\7.SumArrays\obj\Debug\7.SumArrays.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\7.SumArrays\obj\Debug\7.SumArrays.pdb

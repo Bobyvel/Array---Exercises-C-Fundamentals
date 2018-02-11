@@ -1,0 +1,6 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.PowerPlants\bin\Debug\6.PowerPlants.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.PowerPlants\bin\Debug\6.PowerPlants.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.PowerPlants\obj\Debug\6.PowerPlants.csprojResolveAssemblyReference.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.PowerPlants\obj\Debug\6.PowerPlants.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.PowerPlants\obj\Debug\6.PowerPlants.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.PowerPlants\obj\Debug\6.PowerPlants.pdb

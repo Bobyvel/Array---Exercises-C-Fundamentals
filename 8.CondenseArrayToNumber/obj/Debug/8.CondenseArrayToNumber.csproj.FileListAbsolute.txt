@@ -1,0 +1,6 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\8.CondenseArrayToNumber\bin\Debug\8.CondenseArrayToNumber.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\8.CondenseArrayToNumber\bin\Debug\8.CondenseArrayToNumber.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\8.CondenseArrayToNumber\obj\Debug\8.CondenseArrayToNumber.csprojResolveAssemblyReference.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\8.CondenseArrayToNumber\obj\Debug\8.CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\8.CondenseArrayToNumber\obj\Debug\8.CondenseArrayToNumber.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\8.CondenseArrayToNumber\obj\Debug\8.CondenseArrayToNumber.pdb

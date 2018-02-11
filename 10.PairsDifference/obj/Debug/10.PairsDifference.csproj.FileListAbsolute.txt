@@ -1,0 +1,6 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\10.PairsDifference\bin\Debug\10.PairsDifference.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\10.PairsDifference\bin\Debug\10.PairsDifference.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\10.PairsDifference\obj\Debug\10.PairsDifference.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\10.PairsDifference\obj\Debug\10.PairsDifference.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\10.PairsDifference\obj\Debug\10.PairsDifference.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\10.PairsDifference\obj\Debug\10.PairsDifference.csprojResolveAssemblyReference.cache

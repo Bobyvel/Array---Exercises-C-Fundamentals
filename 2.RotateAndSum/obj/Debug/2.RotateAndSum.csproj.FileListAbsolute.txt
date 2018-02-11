@@ -1,0 +1,6 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2.RotateAndSum\bin\Debug\2.RotateAndSum.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2.RotateAndSum\bin\Debug\2.RotateAndSum.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2.RotateAndSum\obj\Debug\2.RotateAndSum.csprojResolveAssemblyReference.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2.RotateAndSum\obj\Debug\2.RotateAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2.RotateAndSum\obj\Debug\2.RotateAndSum.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2.RotateAndSum\obj\Debug\2.RotateAndSum.pdb

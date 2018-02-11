@@ -1,0 +1,6 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\8.MostFrequentNumber\bin\Debug\8.MostFrequentNumber.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\8.MostFrequentNumber\bin\Debug\8.MostFrequentNumber.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\8.MostFrequentNumber\obj\Debug\8.MostFrequentNumber.csprojResolveAssemblyReference.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\8.MostFrequentNumber\obj\Debug\8.MostFrequentNumber.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\8.MostFrequentNumber\obj\Debug\8.MostFrequentNumber.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\8.MostFrequentNumber\obj\Debug\8.MostFrequentNumber.pdb

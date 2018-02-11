@@ -1,0 +1,5 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2. MultiplyArrayOfDoubles\bin\Debug\_2.MultiplyArrayOfDoubles.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2. MultiplyArrayOfDoubles\bin\Debug\_2.MultiplyArrayOfDoubles.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2. MultiplyArrayOfDoubles\obj\Debug\2. MultiplyArrayOfDoubles.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2. MultiplyArrayOfDoubles\obj\Debug\_2.MultiplyArrayOfDoubles.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\2. MultiplyArrayOfDoubles\obj\Debug\_2.MultiplyArrayOfDoubles.pdb

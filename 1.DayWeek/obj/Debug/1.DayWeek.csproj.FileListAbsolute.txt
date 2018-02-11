@@ -1,0 +1,5 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\1.DayWeek\bin\Debug\1.DayWeek.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\1.DayWeek\bin\Debug\1.DayWeek.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\1.DayWeek\obj\Debug\1.DayWeek.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\1.DayWeek\obj\Debug\1.DayWeek.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\1.DayWeek\obj\Debug\1.DayWeek.pdb

@@ -1,0 +1,5 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\3. SmallestElementArray\bin\Debug\_3.SmallestElementArray.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\3. SmallestElementArray\bin\Debug\_3.SmallestElementArray.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\3. SmallestElementArray\obj\Debug\3. SmallestElementArray.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\3. SmallestElementArray\obj\Debug\_3.SmallestElementArray.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\3. SmallestElementArray\obj\Debug\_3.SmallestElementArray.pdb

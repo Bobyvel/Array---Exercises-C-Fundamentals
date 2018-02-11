@@ -1,0 +1,6 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.MaxSequenceOfEqualElements\bin\Debug\6.MaxSequenceOfEqualElements.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.MaxSequenceOfEqualElements\bin\Debug\6.MaxSequenceOfEqualElements.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.MaxSequenceOfEqualElements\obj\Debug\6.MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.MaxSequenceOfEqualElements\obj\Debug\6.MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.MaxSequenceOfEqualElements\obj\Debug\6.MaxSequenceOfEqualElements.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.MaxSequenceOfEqualElements\obj\Debug\6.MaxSequenceOfEqualElements.pdb

@@ -1,0 +1,5 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\11.CountGivenElement\bin\Debug\11.CountGivenElement.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\11.CountGivenElement\bin\Debug\11.CountGivenElement.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\11.CountGivenElement\obj\Debug\11.CountGivenElement.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\11.CountGivenElement\obj\Debug\11.CountGivenElement.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\11.CountGivenElement\obj\Debug\11.CountGivenElement.pdb

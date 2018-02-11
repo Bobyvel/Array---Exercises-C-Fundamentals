@@ -1,0 +1,5 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\17.Altitude\bin\Debug\17.Altitude.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\17.Altitude\bin\Debug\17.Altitude.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\17.Altitude\obj\Debug\17.Altitude.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\17.Altitude\obj\Debug\17.Altitude.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\17.Altitude\obj\Debug\17.Altitude.pdb

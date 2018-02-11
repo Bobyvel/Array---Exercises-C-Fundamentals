@@ -1,0 +1,6 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.ReverseArrayStrings\bin\Debug\6.ReverseArrayStrings.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.ReverseArrayStrings\bin\Debug\6.ReverseArrayStrings.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.ReverseArrayStrings\obj\Debug\6.ReverseArrayStrings.csprojResolveAssemblyReference.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.ReverseArrayStrings\obj\Debug\6.ReverseArrayStrings.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.ReverseArrayStrings\obj\Debug\6.ReverseArrayStrings.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\6.ReverseArrayStrings\obj\Debug\6.ReverseArrayStrings.pdb

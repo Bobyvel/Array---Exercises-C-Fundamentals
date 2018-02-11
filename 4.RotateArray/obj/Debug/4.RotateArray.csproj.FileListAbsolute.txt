@@ -1,0 +1,6 @@
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\4.RotateArray\bin\Debug\4.RotateArray.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\4.RotateArray\bin\Debug\4.RotateArray.pdb
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\4.RotateArray\obj\Debug\4.RotateArray.csprojResolveAssemblyReference.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\4.RotateArray\obj\Debug\4.RotateArray.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\4.RotateArray\obj\Debug\4.RotateArray.exe
+C:\Users\Boby\Documents\Visual Studio 2017\Projects\ArrayPregovor\4.RotateArray\obj\Debug\4.RotateArray.pdb
